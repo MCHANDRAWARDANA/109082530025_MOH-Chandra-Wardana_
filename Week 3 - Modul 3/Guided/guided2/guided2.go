@@ -10,9 +10,9 @@ func cekGenap(angka int) bool {
 }
 
 func main() {
-	angkaTes := 8
-
+	angkaTes := 9
+	
 	hasilGenap := cekGenap(angkaTes)
-
+	
 	fmt.Printf("Apakah %d itu bilangan genap? Jawabannya: %t\n", angkaTes, hasilGenap)
-}
+}	
