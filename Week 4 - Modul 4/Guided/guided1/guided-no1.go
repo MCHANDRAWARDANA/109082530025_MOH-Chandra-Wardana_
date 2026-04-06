@@ -21,4 +21,7 @@ func main() {
 
 	tambahReference(&y)
 	fmt.Println("nilai y setelah pass by reference : ", y)
+
+	fmt.Println()
 }
+

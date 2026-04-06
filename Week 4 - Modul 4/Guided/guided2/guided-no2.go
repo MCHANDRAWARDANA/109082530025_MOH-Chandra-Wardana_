@@ -19,6 +19,8 @@ func hitungDiskon(total int){
 	fmt.Println("harga akhir (setelah diskon): ", hargaAkhir)
 }
 
+
+
 func main(){
 	var harga, jumlah int
 
